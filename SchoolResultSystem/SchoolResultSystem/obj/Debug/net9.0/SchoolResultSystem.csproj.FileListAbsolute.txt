@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SchoolResultSystem\SchoolResultSystem\bin\Debug\net9.0\SchoolResultSystem.exe
+C:\Users\User\source\repos\SchoolResultSystem\SchoolResultSystem\bin\Debug\net9.0\SchoolResultSystem.deps.json
+C:\Users\User\source\repos\SchoolResultSystem\SchoolResultSystem\bin\Debug\net9.0\SchoolResultSystem.runtimeconfig.json
+C:\Users\User\source\repos\SchoolResultSystem\SchoolResultSystem\bin\Debug\net9.0\SchoolResultSystem.dll
+C:\Users\User\source\repos\SchoolResultSystem\SchoolResultSystem\bin\Debug\net9.0\SchoolResultSystem.pdb
+C:\Users\User\source\repos\SchoolResultSystem\SchoolResultSystem\obj\Debug\net9.0\SchoolResultSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SchoolResultSystem\SchoolResultSystem\obj\Debug\net9.0\SchoolResultSystem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SchoolResultSystem\SchoolResultSystem\obj\Debug\net9.0\SchoolResultSystem.AssemblyInfo.cs
+C:\Users\User\source\repos\SchoolResultSystem\SchoolResultSystem\obj\Debug\net9.0\SchoolResultSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SchoolResultSystem\SchoolResultSystem\obj\Debug\net9.0\SchoolResultSystem.dll
+C:\Users\User\source\repos\SchoolResultSystem\SchoolResultSystem\obj\Debug\net9.0\refint\SchoolResultSystem.dll
+C:\Users\User\source\repos\SchoolResultSystem\SchoolResultSystem\obj\Debug\net9.0\SchoolResultSystem.pdb
+C:\Users\User\source\repos\SchoolResultSystem\SchoolResultSystem\obj\Debug\net9.0\SchoolResultSystem.genruntimeconfig.cache
+C:\Users\User\source\repos\SchoolResultSystem\SchoolResultSystem\obj\Debug\net9.0\ref\SchoolResultSystem.dll
